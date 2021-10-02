@@ -1,5 +1,10 @@
+# Convert excel to array or json
+Used to PHP, convert file excel (csv or excel) to array and json
 ## Install
-- composer i
-
+```base
+composer i
+```
 ## Start serve
-- php -S localhost:8000
+```base
+php -S localhost:8000
+```
